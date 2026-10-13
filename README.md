@@ -9,3 +9,4 @@ Codigo1.m :
 4º (FFT) -> Espectro 
 5º Heatmap: todos los trials de un canal (tiempo x trial)
 6º Vistazo al canal de TRIGGER (33)  marcadores de evento
+Kdise
